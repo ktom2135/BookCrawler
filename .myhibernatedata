@@ -1,0 +1,21 @@
+#MyEclipse Hibernate Properties
+#Sun Jun 29 23:16:29 CST 2014
+genBasicCompId=true
+sessionFactoryName=Hibernate.HibernateSessionFactory
+profile=
+daoSFId=
+jndiPath=
+detectM2M=false
+reStrategyClass=
+detectO2O=false
+springDaoFile=
+useJavaTypes=true
+keyGenerator=
+genVersionTag=false
+sessionFactoryId=
+basePersistenceClass=com.mysql.jdbc.jdbc2.optional.MysqlConnectionPoolDataSource
+genAnnotations=false
+reSettingsFile=/BookCrawler/hibernate.reveng.xml
+configFile=/BookCrawler/src/hibernate.cfg.xml
+createConfigFile=true
+baseDaoClass=BaseHibernateDAO
